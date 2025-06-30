@@ -1,0 +1,24 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "posts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariyadyshkant/express-blog-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariyadyshkant/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/mariyadyshkant/express-blog-routing#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
